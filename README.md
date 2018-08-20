@@ -21,8 +21,8 @@ None.
 
 Instance | Severity | Reason
 -- | -- | --
-hiveway.net | Suspend | [Unrespect of the AGPLv3 of Mastodon.](https://gthub.com/skid9000/social.tuto-craft.com_blocklist/blob/master/list/Suspend/hiveway.net.md)
-waifu.social | Silence | [Unrespect of our CoC.](https://gthub.com/skid9000/social.tuto-craft.com_blocklist/blob/master/list/Silence/waifu.social.md)
+hiveway.net | Suspend | [Unrespect of the AGPLv3 of Mastodon.](https://github.com/skid9000/social.tuto-craft.com_blocklist/blob/master/list/Suspend/hiveway.net.md)
+waifu.social | Silence | [Unrespect of our CoC.](https://github.com/skid9000/social.tuto-craft.com_blocklist/blob/master/list/Silence/waifu.social.md)
 
 
 ## Instances we're blocked from
