@@ -2,13 +2,12 @@
 
 
 
-![](https://puush.tuto-craft.com/4S402H.png)
+![](https://github.com/skid9000/social.tuto-craft.com_blocklist/blob/master/img/waifus.social/1.png)
 
-![](https://puush.tuto-craft.com/3V8m6u.png)
+![](https://github.com/skid9000/social.tuto-craft.com_blocklist/blob/master/img/waifus.social/2.png)
 
-![](https://puush.tuto-craft.com/2G2a5f.png)
+![](https://github.com/skid9000/social.tuto-craft.com_blocklist/blob/master/img/waifus.social/3.png)
 
-![](https://puush.tuto-craft.com/0g1b81.png)
+![](https://github.com/skid9000/social.tuto-craft.com_blocklist/blob/master/img/waifus.social/4.jpg)
 
-![](https://puush.tuto-craft.com/5w4J6b.png)
-
+![](https://github.com/skid9000/social.tuto-craft.com_blocklist/blob/master/img/waifus.social/5.jpg)
